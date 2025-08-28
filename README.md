@@ -52,6 +52,10 @@ weather-now/ \
 
 ---
 
+## Links
+
+- [**Live Site URL**](https://shrikanth-dev.github.io/Weather-Now/)
+
 ## Setup Instructions
 
 ### 1 Clone the repository
