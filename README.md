@@ -85,7 +85,7 @@ npm run build
 ```
 
 ## Screenshots
-![](public/Images/Screenshots/desktop_Image)
+![](public/Images/Screenshots/desktop_Image.png)
 ![](public/Images/Screenshots/mobileView_Image.png)
 
 ## Author
