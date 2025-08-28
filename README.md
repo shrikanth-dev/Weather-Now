@@ -11,6 +11,7 @@ It automatically detects the user’s location (with browser geolocation) and al
 - [Features](#Features)
 - [Tech Stack](#TeckStack)
 - [Project Structure](#ProjectStructure)
+- [Links](#Links)
 - [Setup Instructions](#SetupInstructions)
 -[screenShots](#screenShots)
 - [Author](#author)
