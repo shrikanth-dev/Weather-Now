@@ -14,7 +14,6 @@ function App() {
   const [weather, setWeather] = useState(null);
   const [forecast, setForecast] = useState(null);
 
-  // 🌍 Auto-load user location
   useEffect(() => {
     if (navigator.geolocation) {
       navigator.geolocation.getCurrentPosition(
@@ -33,7 +32,6 @@ function App() {
     }
   }, []);
 
-  // 🔎 Search city
   const handleSearch = async (city) => {
     const weatherData = await getWeatherByCity(city);
     const forecastData = await getForecastByCity(city);
